@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45706863-1ba2-4375-88c9-d6874984f2d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/europa/andol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/breast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/cardio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/fervex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/gym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/kosmodisk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/letizen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/letizen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/lung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/massage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/paracetamol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/powerJuicer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/research.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/PatientStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Research.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/LoginPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/ResearchFundingPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/PatientStatusRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/ResearchRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/PatientStatusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/ResearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/PatientStatusServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/ResearchServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/tasks/ResearchFundsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/BloodDOnationApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/PatientStatusController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/ResearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/walkmax.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/europa/zyrtec.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/europa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/A+.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/A+.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/A-.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/A-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/AB+.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/AB+.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/AB-.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/AB-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/B+.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/B+.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/B-.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/B-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/O+.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/O+.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/O-.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/O-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/europa/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/europa/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/europa/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/europa/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/item.png" beforeDir="false" afterPath="$PROJECT_DIR$/europa/item.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/medicine.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/europa/medicine.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/europa/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/EuropaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/EuropaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/exceptions/InsufficientPointsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/exceptions/InsufficientPointsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Examination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/FamilyDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/FamilyDoctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Medicine.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Medicine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/PrescribedMedicine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/Prescription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/SpecialistDoctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodDonationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodDonationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodDonationEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodDonationEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodTypeGives.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodTypeGives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodTypeReceives.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/blood/BloodTypeReceives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BloodDonationApplicationPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BloodDonationApplicationPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BloodDonationEventPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BloodDonationEventPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BuyItemPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BuyItemPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BuyMedicinePojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/model/pojo/BuyMedicinePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodDonationApplicationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodDonationApplicationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodDonationEventRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodDonationEventRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeGivesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeGivesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeReceivesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeReceivesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/BloodTypeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/FamilyDoctorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/FamilyDoctorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/ItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/MedicineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/MedicineRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodDonationApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodDonationApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodDonationEventService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodDonationEventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeGivesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeGivesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeReceivesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeReceivesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/BloodTypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/MedicineService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/MedicineService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodDonationApplicationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodDonationApplicationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodDonationEventServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodDonationEventServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeGivesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeGivesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeReceivesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeReceivesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/BloodTypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/MedicineServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/MedicineServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/PatientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/impl/PatientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/utils/LocalDateTimeToStringConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/utils/LocalDateTimeToStringConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/BloodDonationEventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/BloodDonationEventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/BuyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/BuyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/CreateEntitiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/CreateEntitiesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/MedicineController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/MedicineController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/java/com/example/europa/web/PatientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/europa/src/test/java/com/example/europa/EuropaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/europa/src/test/java/com/example/europa/EuropaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PatientStatusService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/PatientStatusService.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ResearchService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/ResearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/europa" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/lab4t2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/user-management/user-management" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/gym/gym" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/gym/gym-membership/backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/proekt/backend/gym/gym" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/proekt/lab4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/proekt/lab4t2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Semestar 5/WebProgramming/proekt/studentsapi" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1974" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="europa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/europa/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45706863-1ba2-4375-88c9-d6874984f2d5" name="Default" comment="" />
+      <created>1566131721093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566131721093</updated>
+      <workItem from="1566131722515" duration="64000" />
+      <workItem from="1568815339258" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1974" y="-8" width="1370" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/PatientStatusService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/europa/src/main/java/com/example/europa/persistance/service/ResearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
